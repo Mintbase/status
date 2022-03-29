@@ -1,7 +1,9 @@
 # statuses
 
-- [NEAR Status](https://status.nearprotocol.com/)
-- [Vercel Status](https://www.vercel-status.com/)
-- [Google Cloud Status](https://status.cloud.google.com/)
-- [Mintbase Mainnet Indexer](https://mintbase.io/health)
-- [Mintbase Testnet Indexer](https://testnet.mintbase.io/health)
+Is something not working at Mintbase? Check out if our services and our dependencies are working well.
+
+- [NEAR Status](https://status.nearprotocol.com/) NEAR Explorer (Frontend and Indexer) and RPC status.
+- [Vercel Status](https://www.vercel-status.com/) Vercel status
+- [Google Cloud Status](https://status.cloud.google.com/) Google Cloud status
+- [Mintbase Mainnet Indexer](https://mintbase.io/health) Shows the current indexed block on mainnet.
+- [Mintbase Testnet Indexer](https://testnet.mintbase.io/health) Shows the current indexed block on testnet. 
