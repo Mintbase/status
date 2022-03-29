@@ -8,3 +8,5 @@ Is something not working at Mintbase? Check out if our services and our dependen
 - [Mintbase Mainnet Indexer](https://mintbase.io/health) Shows the current indexed block on mainnet.
 - [Mintbase Testnet Indexer](https://testnet.mintbase.io/health) Shows the current indexed block on testnet. 
 - [Hasura Status](https://status.hasura.io/) The GraphQL engine Mintbase uses.
+- [GitHub Status](https://www.githubstatus.com/)
+- [NPM Status](https://status.npmjs.org/)
