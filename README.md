@@ -7,3 +7,4 @@ Is something not working at Mintbase? Check out if our services and our dependen
 - [Google Cloud Status](https://status.cloud.google.com/) Google Cloud status
 - [Mintbase Mainnet Indexer](https://mintbase.io/health) Shows the current indexed block on mainnet.
 - [Mintbase Testnet Indexer](https://testnet.mintbase.io/health) Shows the current indexed block on testnet. 
+- [Hasura Status](https://status.hasura.io/) The GraphQL engine Mintbase uses.
