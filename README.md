@@ -1,4 +1,4 @@
-# statuses
+# 🔴🟡🟢 Mintbase Status
 
 Is something not working at Mintbase? Check out if our services and our dependencies are working well.
 
